@@ -12,9 +12,9 @@ ngrok http 8787
 python main.py
 
 ### Directions
-- A is first number
-B is second number
-A + B -->A plus B
-A - B -->A minus B
-A * B -->A multiply B
-A / B -->A divided by B
+- A is first number  
+B is second number  
+A + B -->A plus B  
+A - B -->A minus B  
+A * B -->A multiply B  
+A / B -->A divided by B  
