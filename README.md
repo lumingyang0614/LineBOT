@@ -4,7 +4,8 @@
 
 - Step 1: Install Python Packages
 pip install -r requirements.txt
-Start ngrok https server (default port:8787)
+
+- Start ngrok https server (default port:8787)
 ngrok http 8787
 
 - Step 2: Run main.py 
